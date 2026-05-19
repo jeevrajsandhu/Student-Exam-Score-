@@ -237,6 +237,6 @@ This project can be improved further by:
 
 This project successfully demonstrates how machine learning can be used to predict student exam scores based on different academic and personal factors. It includes a complete workflow from data analysis to model deployment through a Streamlit web app, making it suitable for academic submission and practical demonstration.
 
-## Author
+The hosted Streamlit application is available at: [academicscore.streamlit.app](https://academicscore.streamlit.app)
 
 Created by Jeevraj Singh Sandhu as a machine learning project for student exam score prediction.
